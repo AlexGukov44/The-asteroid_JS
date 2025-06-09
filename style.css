@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    color: #fff;
+    }
+
+#game { 
+    display: block;
+    width: 100vh;
+    height: 100vh;
+    }
+
+#score {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 40px;
+    }
